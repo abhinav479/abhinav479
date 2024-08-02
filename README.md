@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Goyal</h1>
+<h1 align="center">Hi, I'm Abhinav Goyal</h1>
 <h3 align="center">I am learning Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav479&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav479" /> </p>
