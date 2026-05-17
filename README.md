@@ -48,13 +48,23 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 
 ### AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48" height="48" alt="airflow"/>
+  
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="48" height="48" alt="pyspark"/>
+
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="langchain"/>
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="48" height="48" alt="langgraph"/>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" alt="rag"/>
 </p>
 
-- LangChain
-- LangGraph
-- RAG Pipelines
-- Airflow
+- LangChain  
+- LangGraph  
+- RAG Pipelines  
+- Apache Airflow  
 - PySpark
 
 ---
