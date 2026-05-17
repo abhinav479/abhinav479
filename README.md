@@ -1,23 +1,124 @@
-<h1 align="center">Hi, I'm Abhinav Goyal</h1>
-<h3 align="center">I am a Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Abhinav Goyal</h1>
+<h3 align="center">
+Backend-Focused Software Engineer | Distributed Systems | APIs | AI Systems
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav479&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav479" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav479" alt="abhinav479" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **abhinavgoyal479@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-goyal-408563233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-goyal-408563233/" height="30" width="40" /></a>
-<a href="https://instagram.com/_abhinav528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhinav528" height="30" width="40" /></a>
+<p align="center">
+IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assisted Development
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinav479&label=Profile%20Views&color=0e75b6&style=flat" alt="abhinav479" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav479&show_icons=true&locale=en&layout=compact" alt="abhinav479" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav479&" alt="abhinav479" /></p>
+## 🚀 About Me
+
+- 💻 Backend-focused Software Engineer with experience building scalable APIs, microservices, and distributed systems
+- 🏦 Currently working at **ICICI Bank** on APIs & Data Warehouse systems
+- ⚡ Strong in **C++, Node.js, Python, System Design, DSA, and Backend Engineering**
+- 🤖 Exploring **LLMs, Agentic AI Systems, LangGraph, and RAG pipelines**
+- 📚 Solved **600+ DSA problems** across LeetCode & GeeksforGeeks
+- 🧠 Interested in:
+  - Distributed Systems
+  - Backend Infrastructure
+  - Real-Time Systems
+  - AI Engineering
+  - System Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,sql" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis,kafka" />
+</p>
+
+### Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+- LangChain
+- LangGraph
+- RAG Pipelines
+- Airflow
+- PySpark
+
+---
+
+## 📌 Featured Projects
+
+### 💬 Scalable Real-Time Chat Application
+**Socket.IO • Kafka • Redis • PostgreSQL • Next.js**
+
+- Built scalable real-time messaging architecture
+- Reduced message latency by 25%
+- Implemented Kafka-based async message brokering
+- Used Redis caching for faster retrievals
+- Dockerized services for isolated deployments
+
+---
+
+### 🤖 Multi-Agent Blog Writing System
+**LangGraph • LangChain • LLMs • Agentic AI**
+
+- Developed a scalable multi-agent workflow system
+- Built modular async worker pipelines
+- Integrated research, drafting & image-generation agents
+- Improved workflow responsiveness and consistency
+
+---
+
+### 🎟️ Ticket Booking System
+**C++ • OOPS • LLD • Concurrency**
+
+- Designed modular booking architecture using SOLID principles
+- Implemented real-time seat allocation & availability tracking
+- Handled concurrent bookings with concurrency control
+- Modeled scalable Event, Venue & Seat abstractions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav479&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav479&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav479&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-goyal-408563233/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:abhinavgoyal479@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building scalable backend systems, debugging distributed workflows, and optimizing performance bottlenecks.
