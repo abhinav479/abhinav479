@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Goyal</h1>
+
 <h3 align="center">
 Backend-Focused Software Engineer | Distributed Systems | APIs | AI Systems
 </h3>
@@ -49,9 +50,9 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 ### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  
+
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48" height="48" alt="airflow"/>
-  
+
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="48" height="48" alt="pyspark"/>
 
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="langchain"/>
@@ -102,10 +103,21 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 
 ---
 
+## 📄 Resume
+
+<p>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinav479&show_icons=true&theme=tokyonight" height="170"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav479&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
@@ -118,6 +130,7 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/abhinav-goyal-408563233/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
@@ -125,6 +138,7 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 <a href="mailto:abhinavgoyal479@gmail.com">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
 </a>
+
 </p>
 
 ---
