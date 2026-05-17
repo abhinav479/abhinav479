@@ -106,7 +106,7 @@ IIT Roorkee Graduate • Backend Engineering • Scalable Systems • AI-Assiste
 ## 📄 Resume
 
 <p>
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1b_UqDQBXzmaC5E-wIModtQq9FnqCr2YQ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
